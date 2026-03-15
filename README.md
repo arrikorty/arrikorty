@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy arrikorty
 
-<!--
-**arrikorty/arrikorty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- [Proyecto 1](https://github.com/arrikorty/proyecto1): Breve descripción
+- [Proyecto 2](https://github.com/arrikorty/proyecto2): Algo genial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+<img src="https://img.shields.io/badge/Python-blue?logo=python">
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript">
+
+## 📈 Estadísticas
+![arrikorty's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrikorty&show_icons=true)
+
+## 🌐 Contacto
+- [LinkedIn](https://linkedin.com/in/arrikorty)
+- arrikorty@gmail.com
+
+<!-- Puedes agregar imágenes, GIFs, enlaces extra, etc. -->
